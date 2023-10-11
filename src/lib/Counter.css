@@ -1,0 +1,16 @@
+.select_container {
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  }
+  .newInput {
+    border:none;
+    background-color: #131419;
+    border-radius: 5px;
+    padding: 10px 15px;
+    outline: none;
+    margin-bottom: 30px;
+    font-size: 14px;
+  }
